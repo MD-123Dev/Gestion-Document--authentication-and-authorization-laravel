@@ -30,6 +30,13 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
  + Pagination .
  + CRUD .
  
+## Screenshot :
+
+ ![Login](https://user-images.githubusercontent.com/43389513/103248481-063e3300-496b-11eb-8e83-2985c3fde07b.PNG)
+
+![admin](https://user-images.githubusercontent.com/43389513/103248511-25d55b80-496b-11eb-9d54-42a3b04f6cb5.PNG)
+
+ 
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
