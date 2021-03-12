@@ -29,7 +29,10 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
  + Security with Policies .
  + Pagination .
  + CRUD .
+ ## Diagrame : 
  
+ ![securiter](https://user-images.githubusercontent.com/43389513/110939297-7be45900-8335-11eb-9a28-ac4c4f8f0ad9.PNG)
+
 ## Screenshot :
 
  ![Login](https://user-images.githubusercontent.com/43389513/103248481-063e3300-496b-11eb-8e83-2985c3fde07b.PNG)
